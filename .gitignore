@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editor folders
+.vscode/
+.obsidian/
+
+# Backup or temporary files
+*.log
+*.tmp
+*~
