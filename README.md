@@ -33,3 +33,18 @@ All content is shared under the **Creative Commons Attribution 4.0 International
 
 For more details, see the `LICENSE` file.
 
+## Future Development
+
+This project is currently a theology-first writing repository built by someone with no formal coding experience. However, I am open to this becoming a code-enabled project in the future, especially in the direction of a decentralized Web3-based theology system.
+
+Potential development areas include:
+
+- A Git-based protocol for theological versioning and historical traceability
+- Smart contract–based citation and attribution tracking
+- Integration with decentralized identity systems (e.g. Verifiable Credentials) to associate theological positions with real tradition-based signatures
+- Governance models for theological agreement across traditions, enabling users from different Christian backgrounds (Protestant, Catholic, Orthodox, etc.) to publicly affirm or challenge a doctrinal idea
+- Weighted consensus scoring, where mass agreement across distinct traditions increases the trust or signal value of an idea
+- Public audit trails of theological development over time
+
+The goal is not to undermine church authority but to build a protocol for **voluntary consensus**, theological clarity, and open-source collaboration. If you are a developer, theologian, or Web3 builder interested in helping shape this future, feel free to reach out or contribute ideas.
+
