@@ -48,3 +48,15 @@ Potential development areas include:
 
 The goal is not to undermine church authority but to build a protocol for **voluntary consensus**, theological clarity, and open-source collaboration. If you are a developer, theologian, or Web3 builder interested in helping shape this future, feel free to reach out or contribute ideas.
 
+## Planned Repository Structure
+This project will eventually include the following folders:
+
+- `udp/` — Core documents on the Unified Distinction Pattern
+- `divine-grammar/` — Theological logic behind divine-human union
+- `heresies/` — Charts and commentary on ancient and modern heresies
+- `vision/` — Future-facing proposals such as Solomon Funds and theological governance
+- `drafts/` — Unpublished or exploratory writing
+- `notes/` — Study notes and theological references
+
+Only `udp/` is currently active. Other sections will be developed over time.
+
