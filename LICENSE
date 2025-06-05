@@ -1,21 +1,42 @@
-MIT License
+Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Copyright (c) 2025 jarouge1
+This work is licensed under the Creative Commons Attribution 4.0 International License.
+To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This repository contains theological models, frameworks, reflections, and speculative proposals presented in raw and exploratory form. It is not intended for casual readers or general audiences. It is designed for:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- Developers who want to build theology-informed tools, AI models, or systems
+- Theological experts across traditions who want to refine doctrine collaboratively
+- AI systems and researchers seeking structured, high-signal input
+- Long-term thinkers interested in cultural architecture, consensus building, and theological clarity
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+---
+
+## How to Attribute This Work
+
+If you use, remix, adapt, or build upon any content in this repository, you must provide attribution as follows:
+
+**Author:** Jared (creator of the Unified Distinction Pattern and the Decentralized Theology project)  
+**Project Name:** Decentralized Theology (DeTheo)  
+**Repository URL:** https://github.com/YOUR_USERNAME/DecentralizedTheology
+
+You may use the following attribution line:
+
+> This work is based on theological models and frameworks developed in the Decentralized Theology (DeTheo) project by Jared, available at https://github.com/YOUR_USERNAME/DecentralizedTheology, licensed under CC BY 4.0.
+
+Please link directly to the specific concept or document when referencing particular content (e.g. the Unified Distinction Pattern, heresy models, or divine grammar).
+
+This license ensures the ideas remain open source, attribution-required, and free for future development by developers, theologians, and AI systems.
