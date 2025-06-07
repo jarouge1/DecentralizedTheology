@@ -76,5 +76,14 @@ If you are a developer, theologian, or Web3 builder interested in helping shape 
 - Open issues with questions or suggestions  
 - Reach out directly with ideas or collaborations  
 
+## 📚 Citation and Attribution
+
+If you use or reference the ideas in this repository please cite the original author:
+
+**Jared Busby**  
+GitHub: (https://github.com/jarouge1/DecentralizedTheology)
+
+Citing the original source helps others trace the framework, understand its context, and contribute responsibly to the ongoing development of Decentralized Theology.
+
 ---
 
